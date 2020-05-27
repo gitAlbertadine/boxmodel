@@ -1,3 +1,16 @@
-body{
-    background-color: tan;
+*{
+    padding: 0;
+    margin: 0;
+}
+.div1{
+    background-color: aqua;
+    padding: 10px;
+    border: 10px solid red ;
+    margin: 10px;
+}
+.div2{
+    background-color: rgb(11, 26, 226);
+    padding: 10px;
+    border: 10px solid green;
+    margin: 10px;
 }
