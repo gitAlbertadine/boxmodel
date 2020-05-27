@@ -4,9 +4,9 @@
 }
 .div1{
     box-sizing: border-box;
-    background-color: aqua;
+    background-color: rgb(255, 230, 0);
     padding: 10px;
-    border: 10px solid red ;
+    border: 10px solid rgb(51, 255, 0) ;
     width: 100px;
     height: 100px;
     
