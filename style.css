@@ -6,13 +6,15 @@
     background-color: aqua;
     padding: 10px;
     border: 10px solid red ;
-    margin: 10px;
+    margin-bottom: 70px;
     width: 100px;
     height: 100px;
 }
 .div2{
-    background-color: rgb(11, 26, 226);
+    background-color: rgb(181, 184, 228);
     padding: 10px;
     border: 10px solid green;
-    margin: 10px;
+    margin-top: 60px;
+    width: 100px;
+    height: 100px;
 }
